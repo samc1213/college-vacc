@@ -9,7 +9,7 @@ contains CSVs with data, as well as a [leaflet](https://leafletjs.com/) [map](js
 * The list of colleges and their urls and location are from the [U.S. Department of Education's College Scorecard API](https://collegescorecard.ed.gov/data/documentation/)
 * The base map is from [Open Street Map](https://www.openstreetmap.org/)
 * The college logos are provided by [Clearbit](https://clearbit.com/logo)
-* The list of colleges is manually maintained and *not* guaranteed to be correct at all
+* The list of colleges requiring a vaccine is manually maintained and *not* guaranteed to be correct at all
 
 # Contributing
 If a new school announces they will be requiring a vaccine, first find it in the list of [colleges](scripts/output/colleges.csv).
