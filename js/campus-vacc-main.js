@@ -27,17 +27,17 @@ colleges = [
 
 var markers = L.markerClusterGroup();
 
-let removeHttps = (url) => url.replace('https://', '').replace('http://', '')
+let removeHttp = (url) => url.replace('https://', '').replace('http://', '')
 
 colleges.forEach(college => {
     var icon = L.divIcon({
         className: 'school-icon',
-        html: `<img class="school-icon" src="https://logo.clearbit.com/${college.url}" />`,
+        html: `<img class="school-icon" src="https://logo.clearbit.com/${removeHttp(college.url)}" />`,
         iconSize: [20, 20]
     });
     
     let newMarker = L.marker([college.lat, college.lon], {icon: icon});
-    newMarker.bindPopup(`<div class="school-popup"><h4>${college.name}</h4><a href="${college.announcement_url}" target="_blank">Announcement</a><br> <img src="https://logo.clearbit.com/${college.url}" /></div>`)
+    newMarker.bindPopup(`<div class="school-popup"><h4>${college.name}</h4><a href="${college.announcement_url}" target="_blank">Announcement</a><br> <img src="https://logo.clearbit.com/${removeHttp(college.url)}" /></div>`)
     markers.addLayer(newMarker);
 })
 
