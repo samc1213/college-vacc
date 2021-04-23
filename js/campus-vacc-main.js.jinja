@@ -27,7 +27,7 @@ colleges.forEach(college => {
     });
     
     let newMarker = L.marker([college.lat, college.lon], {icon: icon});
-    newMarker.bindPopup(`<div class="school-popup"><h4>${college.name}</h4><a href="${college.announcement_url}" target="_blank">Announcement</a><br> <img src="http://logo.clearbit.com/${college.url}" /></div>`)
+    newMarker.bindPopup(`<div class="school-popup"><h4>${college.name}</h4><a href="${college.announcement_url}" target="_blank">Announcement</a><br> <img src="https://logo.clearbit.com/${college.url}" /></div>`)
     markers.addLayer(newMarker);
 })
 
