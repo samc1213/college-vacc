@@ -1,0 +1,13 @@
+#map {
+    min-height: 100vh;
+}
+
+.school-icon {
+    width: 5vh;
+    border-radius: 5px;
+    box-shadow: 1px 1px gray;
+}
+
+.school-popup {
+    text-align: center;
+}
