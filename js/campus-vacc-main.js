@@ -9,6 +9,9 @@ var markers = L.markerClusterGroup();
 
 String.prototype.splitCSV = function() {
     var matches = this.match(/(\s*"[^"]+"\s*|\s*[^,]+|,)(?=,|$)/g);
+    if (!matches) {
+        return null;
+    }
     for (var n = 0; n < matches.length; ++n) {
         matches[n] = matches[n].trim();
         if (matches[n] == ',') matches[n] = '';
@@ -33,6 +36,9 @@ fetch('https://raw.githubusercontent.com/samc1213/college-vacc/main/scripts/outp
 .then(r => r.text()).then(text => {
     text.split(/\r?\n/).slice(1).forEach(line => {
         let lineSplit = line.splitCSV();
+        if (!lineSplit) {
+            return;
+        }
         if (!lineSplit[5] || !lineSplit[6]) {
             return;
         }
