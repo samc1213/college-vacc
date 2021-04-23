@@ -8,11 +8,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 colleges = [
 {% for college in colleges %}
     {
-        name: '{{college.name}}',
+        name: "{{college.name}}",
         lat: {{college.lat}},
         lon: {{college.lon}},
-        url: '{{college.url}}',
-        announcement_url: '{{college.announcement_url}}'
+        url: "{{college.url}}",
+        announcement_url: "{{college.announcement_url}}"
     }{% if not loop.last %},{% endif %}
 {% endfor %}
 ]
