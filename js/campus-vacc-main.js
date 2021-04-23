@@ -27,6 +27,8 @@ colleges = [
 
 var markers = L.markerClusterGroup();
 
+let removeHttps = (url) => url.replace('https://', '').replace('http://', '')
+
 colleges.forEach(college => {
     var icon = L.divIcon({
         className: 'school-icon',
