@@ -201,40 +201,40 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 110334,Cabrillo College,www.cabrillo.edu,Aptos,CA,36.989448,-121.924797,
 110361,California Baptist University,www.calbaptist.edu,Riverside,CA,33.929321,-117.425619,
 110370,California College of the Arts,www.cca.edu,San Francisco,CA,37.767485,-122.399451,
-110398,University of California-Hastings College of Law,www.uchastings.edu,San Francisco,CA,37.781137,-122.4157,
+110398,University of California-Hastings College of Law,www.uchastings.edu,San Francisco,CA,37.781137,-122.4157,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
 110404,California Institute of Technology,www.caltech.edu,Pasadena,CA,34.137349,-118.125878,
 110413,California Lutheran University,www.callutheran.edu/,Thousand Oaks,CA,34.224566,-118.878924,
 110422,California Polytechnic State University-San Luis Obispo,calpoly.edu,San Luis Obispo,CA,35.299513,-120.657311,
 110468,Alliant International University-San Diego,www.alliant.edu,San Diego,CA,32.897056,-117.094398,
-110486,California State University-Bakersfield,www.csub.edu,Bakersfield,CA,35.350005,-119.104711,
-110495,California State University-Stanislaus,https://www.csustan.edu,Turlock,CA,37.52577,-120.852511,
-110510,California State University-San Bernardino,www.csusb.edu,San Bernardino,CA,34.182622,-117.323801,
-110529,California State Polytechnic University-Pomona,www.cpp.edu,Pomona,CA,34.057912,-117.821476,
-110538,California State University-Chico,www.csuchico.edu,Chico,CA,39.729712,-121.844859,
-110547,California State University-Dominguez Hills,https://www.csudh.edu,Carson,CA,33.864766,-118.255917,
-110556,California State University-Fresno,www.fresnostate.edu/,Fresno,CA,36.811154,-119.744569,
-110565,California State University-Fullerton,www.fullerton.edu,Fullerton,CA,33.881506,-117.885446,
-110574,California State University-East Bay,www.csueastbay.edu,Hayward,CA,37.657694,-122.054135,
-110583,California State University-Long Beach,www.csulb.edu,Long Beach,CA,33.782818,-118.11204,
-110592,California State University-Los Angeles,www.calstatela.edu,Los Angeles,CA,34.066927,-118.168965,
-110608,California State University-Northridge,https://www.csun.edu,Northridge,CA,34.240126,-118.529319,
-110617,California State University-Sacramento,www.csus.edu,Sacramento,CA,38.559415,-121.423549,
-110635,University of California-Berkeley,www.berkeley.edu,Berkeley,CA,37.871918,-122.260463,
-110644,University of California-Davis,ucdavis.edu,Davis,CA,38.539667,-121.749567,
-110653,University of California-Irvine,www.uci.edu/,Irvine,CA,33.648434,-117.841248,
-110662,University of California-Los Angeles,www.ucla.edu/,Los Angeles,CA,34.068892,-118.443901,
-110671,University of California-Riverside,www.ucr.edu/,Riverside,CA,33.97246,-117.32741,
-110680,University of California-San Diego,www.ucsd.edu,La Jolla,CA,32.877749,-117.235866,
-110699,University of California-San Francisco,ucsf.edu,San Francisco,CA,37.763737,-122.458489,
-110705,University of California-Santa Barbara,www.ucsb.edu,Santa Barbara,CA,34.416297,-119.846426,
-110714,University of California-Santa Cruz,www.ucsc.edu/,Santa Cruz,CA,36.995584,-122.058801,
+110486,California State University-Bakersfield,www.csub.edu,Bakersfield,CA,35.350005,-119.104711,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110495,California State University-Stanislaus,https://www.csustan.edu,Turlock,CA,37.52577,-120.852511,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110510,California State University-San Bernardino,www.csusb.edu,San Bernardino,CA,34.182622,-117.323801,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110529,California State Polytechnic University-Pomona,www.cpp.edu,Pomona,CA,34.057912,-117.821476,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110538,California State University-Chico,www.csuchico.edu,Chico,CA,39.729712,-121.844859,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110547,California State University-Dominguez Hills,https://www.csudh.edu,Carson,CA,33.864766,-118.255917,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110556,California State University-Fresno,www.fresnostate.edu/,Fresno,CA,36.811154,-119.744569,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110565,California State University-Fullerton,www.fullerton.edu,Fullerton,CA,33.881506,-117.885446,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110574,California State University-East Bay,www.csueastbay.edu,Hayward,CA,37.657694,-122.054135,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110583,California State University-Long Beach,www.csulb.edu,Long Beach,CA,33.782818,-118.11204,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110592,California State University-Los Angeles,www.calstatela.edu,Los Angeles,CA,34.066927,-118.168965,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110608,California State University-Northridge,https://www.csun.edu,Northridge,CA,34.240126,-118.529319,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110617,California State University-Sacramento,www.csus.edu,Sacramento,CA,38.559415,-121.423549,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
+110635,University of California-Berkeley,www.berkeley.edu,Berkeley,CA,37.871918,-122.260463,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110644,University of California-Davis,ucdavis.edu,Davis,CA,38.539667,-121.749567,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110653,University of California-Irvine,www.uci.edu/,Irvine,CA,33.648434,-117.841248,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110662,University of California-Los Angeles,www.ucla.edu/,Los Angeles,CA,34.068892,-118.443901,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110671,University of California-Riverside,www.ucr.edu/,Riverside,CA,33.97246,-117.32741,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110680,University of California-San Diego,www.ucsd.edu,La Jolla,CA,32.877749,-117.235866,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110699,University of California-San Francisco,ucsf.edu,San Francisco,CA,37.763737,-122.458489,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110705,University of California-Santa Barbara,www.ucsb.edu,Santa Barbara,CA,34.416297,-119.846426,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
+110714,University of California-Santa Cruz,www.ucsc.edu/,Santa Cruz,CA,36.995584,-122.058801,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
 110778,Sofia University,www.sofia.edu,Palo Alto,CA,37.430325,-122.10866,
 110875,California Beauty School,www.calbeautycollege.edu,Modesto,CA,37.645217,-120.99689,
 110918,California Christian College,www.calchristiancollege.edu,Fresno,CA,36.749366,-119.711123,
 110936,California Coast University,https://www.calcoast.edu,Santa Ana,CA,33.753135,-117.86524,
 111054,California Hair Design Academy,https://chdaschools.com,La Mesa,CA,32.765221,-117.024261,
 111081,California Institute of the Arts,www.calarts.edu,Valencia,CA,34.39327,-118.566837,
-111188,California State University Maritime Academy,https://www.csum.edu,Vallejo,CA,38.069061,-122.231551,
+111188,California State University Maritime Academy,https://www.csum.edu,Vallejo,CA,38.069061,-122.231551,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
 111391,California Western School of Law,https://www.cwsl.edu,San Diego,CA,32.722192,-117.162416,
 111434,Canada College,canadacollege.edu,Redwood City,CA,37.44877,-122.265398,
 111461,College of the Canyons,www.canyons.edu,Santa Clarita,CA,34.403993,-118.568698,
@@ -4004,7 +4004,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 366605,Southwest Acupuncture College-Santa Fe,www.acupuncturecollege.edu,Santa Fe,NM,35.661847,-105.949973,
 366623,Northwest Technology Center-Alva,https://nwtech.edu,Alva,OK,36.786733,-98.675711,
 366632,Mercer County Career Center,www.mercerccc.org,Mercer,PA,41.250851,-80.248614,
-366711,California State University-San Marcos,www.csusm.edu,San Marcos,CA,33.130569,-117.159013,
+366711,California State University-San Marcos,www.csusm.edu,San Marcos,CA,33.130569,-117.159013,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
 366793,Baptist Theological Seminary at Richmond,www.btsr.edu,Henrico,VA,37.632354,-77.468483,
 367024,Purdue University Global-Des Moines,https://www.purdueglobal.edu/campus-locations/des-moines-iowa/,Urbandale,IA,41.645171,-93.778426,
 367051,Hairmasters Institute of Cosmetology,www.hair-masters.com,Bloomington,IL,40.474796,-88.979453,
@@ -4287,7 +4287,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 409537,Pike County Joint Vocational School District,www.pikectc.org,Piketon,OH,39.054045,-83.007113,
 409591,Lorain County Joint Vocational School District,https://www.lcjvs.com/loraincountyadultcareercenter_home.aspx,Oberlin,OH,41.262182,-82.213852,
 409616,Roger Williams University School of Law,law.rwu.edu/,Bristol,RI,41.650974,-71.261978,
-409698,California State University-Monterey Bay,www.csumb.edu,Seaside,CA,36.652397,-121.796178,
+409698,California State University-Monterey Bay,www.csumb.edu,Seaside,CA,36.652397,-121.796178,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
 410496,Bryant & Stratton College-Henrietta,https://www.bryantstratton.edu/,Rochester,NY,43.084122,-77.602378,
 410797,Ohio Media School-Valley View,www.beonair.com,Valley View,OH,41.393531,-81.615624,
 410964,EINE Inc,electrologyinstitute.com,Tewksbury,MA,42.598024,-71.220396,
@@ -4701,7 +4701,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 441858,Eastern Virginia Career College,www.evcc.edu,Fredericksburg,VA,38.24116,-77.495581,
 441876,Rudy & Kelly Academy-A Paul Mitchell Partner School,https://paulmitchell.edu/virginiabeach,Virginia Beach,VA,36.779382,-76.189382,
 441900,Nevada State College,nsc.edu,Henderson,NV,35.982345,-114.938044,
-441937,California State University-Channel Islands,www.csuci.edu,Camarillo,CA,34.162949,-119.04356,
+441937,California State University-Channel Islands,www.csuci.edu,Camarillo,CA,34.162949,-119.04356,https://www2.calstate.edu/csu-system/news/Pages/CSU-COVID-Vax-Requirement-FDA-Approval.aspx
 441982,Franklin W Olin College of Engineering,www.olin.edu,Needham,MA,42.293527,-71.263378,
 442064,Won Institute of Graduate Studies,www.woninstitute.edu,Glenside,PA,40.09931,-75.154336,
 442073,Lincoln Technical Institute-Paramus,www.lincolntech.edu/campus/paramus-nj,Paramus,NJ,40.915145,-74.057574,
@@ -4828,7 +4828,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 445027,American InterContinental University,www.aiuniv.edu,Chandler,AZ,33.278816,-111.804036,
 445054,Toyota Technological Institute at Chicago,www.ttic.edu,Chicago,IL,41.784721,-87.592682,
 445133,American InterContinental University-Houston,www.aiuniv.edu/online-campus/campus-locations/houston,Houston,TX,29.728216,-95.548302,
-445188,University of California-Merced,ucmerced.edu,Merced,CA,37.366237,-120.424944,
+445188,University of California-Merced,ucmerced.edu,Merced,CA,37.366237,-120.424944,https://www.universityofcalifornia.edu/press-room/uc-encourages-covid-19-vaccinations-university-communities-while-reviewing-policy
 445203,Remington College-North Houston Campus,www.remingtoncollege.edu/north-houston-texas-colleges,Houston,TX,29.946769,-95.424881,
 445212,Paul Mitchell the School-Orlando,paulmitchell.edu/orlando,Oviedo,FL,28.663679,-81.234215,
 445230,Pima Medical Institute-Las Vegas,pmi.edu,Las Vegas,NV,36.114105,-115.102238,
