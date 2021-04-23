@@ -1412,12 +1412,12 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 162928,Johns Hopkins University,www.jhu.edu,Baltimore,MD,39.328977,-76.621595,https://hub.jhu.edu/2021/04/09/fall-return-to-campus-planning/
 163028,Lincoln College of Technology-Columbia,www.lincolntech.edu/campus/columbia-md,Columbia,MD,39.174673,-76.836463,
 163046,Loyola University Maryland,www.loyola.edu,Baltimore,MD,39.346358,-76.621872,
-163204,University of Maryland Global Campus,www.umgc.edu,Adelphi,MD,38.912706,-76.847584,
-163259,University of Maryland Baltimore,www.umaryland.edu,Baltimore,MD,39.286864,-76.623983,
-163268,University of Maryland-Baltimore County,umbc.edu,Baltimore,MD,39.256686,-76.711607,
-163286,University of Maryland-College Park,www.umd.edu,College Park,MD,38.988178,-76.944721,
+163204,University of Maryland Global Campus,www.umgc.edu,Adelphi,MD,38.912706,-76.847584,https://www.usmd.edu/newsroom/news/2154
+163259,University of Maryland Baltimore,www.umaryland.edu,Baltimore,MD,39.286864,-76.623983,https://www.usmd.edu/newsroom/news/2154
+163268,University of Maryland-Baltimore County,umbc.edu,Baltimore,MD,39.256686,-76.711607,https://www.usmd.edu/newsroom/news/2154
+163286,University of Maryland-College Park,www.umd.edu,College Park,MD,38.988178,-76.944721,https://www.usmd.edu/newsroom/news/2154
 163295,Maryland Institute College of Art,www.mica.edu,Baltimore,MD,39.308792,-76.621033,
-163338,University of Maryland Eastern Shore,www.umes.edu,Princess Anne,MD,38.207386,-75.686852,
+163338,University of Maryland Eastern Shore,www.umes.edu,Princess Anne,MD,38.207386,-75.686852,https://www.usmd.edu/newsroom/news/2154
 163347,Fortis Institute-Towson,https://www.fortis.edu,Towson,MD,39.403271,-76.604593,
 163408,Montgomery Beauty School,www.MontgomeryBeautySchool.com,Silver Spring,MD,38.999622,-77.001966,
 163426,Montgomery College,www.montgomerycollege.edu,Rockville,MD,39.098656,-77.15929,
