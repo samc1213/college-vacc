@@ -13,6 +13,8 @@ contains CSVs with data, as well as a [leaflet](https://leafletjs.com/) [map](js
 
 # Contributing
 If a new school announces they will be requiring a vaccine, first find it in the list of [colleges](scripts/output/colleges.csv).
-Then, add the Id of the school, and the url announcing the vaccine requirement to [requirements](scripts/announcements.csv). Then,
-create a new Python 3 virtual environment, and `pip install -r requirements.txt`. Next, run `python generate_js.py`, and push all
-of this up in a Pull Request. (Note: if you'd like to help make this process easier, I would love that!)
+Then, add a link to the announcement (preferably from the University) that students will be required (with exceptions)
+to have a COVID vaccine for the fall of 2021 to the `CovidAnnouncement` column.
+
+# Map of Data
+[here](https://samc1213.github.io/2020/04/22/vaccine-college-requirement/)
