@@ -363,7 +363,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 118347,College of Marin,www.marin.edu,Kentfield,CA,37.954897,-122.549149,
 118541,Marymount California University,www.marymountcalifornia.edu/,Rancho Palos Verdes,CA,33.734887,-118.333371,
 118684,Mendocino College,www.mendocino.edu,Ukiah,CA,39.188989,-123.228809,
-118693,Menlo College,www.menlo.edu,Atherton,CA,37.453475,-122.190797,
+118693,Menlo College,www.menlo.edu,Atherton,CA,37.453475,-122.190797,https://www.almanacnews.com/news/2021/04/23/menlo-college-to-require-students-to-be-vaccinated-before-fall-return-to-campus
 118718,Merced College,www.mccd.edu,Merced,CA,37.3353,-120.476464,
 118772,Merritt College,www.merritt.edu,Oakland,CA,37.789088,-122.167335,
 118888,Mills College,https://www.mills.edu,Oakland,CA,37.781425,-122.182294,
@@ -470,7 +470,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 123642,South Coast College,www.SOUTHCOASTCOLLEGE.EDU,Orange,CA,33.78818,-117.874031,
 123651,Vanguard University of Southern California,https://www.vanguard.edu,Costa Mesa,CA,33.662686,-117.900911,
 123679,Concorde Career College-Garden Grove,https://www.concorde.edu/campus/garden-grove-california,Garden Grove,CA,33.774741,-117.938395,
-123800,Southwestern College,https://www.swccd.edu,Chula Vista,CA,32.640281,-116.996803,
+123800,Southwestern College,https://www.swccd.edu,Chula Vista,CA,32.640281,-116.996803,http://news.swccd.edu/2021/04/southwestern-college-to-expand-in-person-classes-fall-2021-require-vaccinations/?utm_source=rss&utm_medium=rss&utm_campaign=southwestern-college-to-expand-in-person-classes-fall-2021-require-vaccinations
 123855,St John's Seminary,www.stjohnsem.edu,Camarillo,CA,34.243921,-119.001867,
 123916,Starr King School for the Ministry,www.sksm.edu,Berkeley,CA,37.876939,-122.261778,
 123943,Marshall B Ketchum University,www.ketchum.edu,Fullerton,CA,33.889348,-117.886229,
@@ -507,10 +507,10 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 126207,Aims Community College,www.aims.edu,Greeley,CO,40.409559,-104.763415,
 126289,Arapahoe Community College,www.arapahoe.edu,Littleton,CO,39.607505,-105.018631,
 126359,Bel-Rea Institute of Animal Technology,www.bel-rea.com,Denver,CO,39.686194,-104.876207,
-126562,University of Colorado Denver/Anschutz Medical Campus,www.ucdenver.edu/,Denver,CO,39.745149,-104.837722,
-126580,University of Colorado Colorado Springs,https://www.uccs.edu,Colorado Springs,CO,38.892735,-104.800296,
+126562,University of Colorado Denver/Anschutz Medical Campus,www.ucdenver.edu/,Denver,CO,39.745149,-104.837722,https://president.cu.edu/statements/cu-requires-vaccine-fall-semester-2021
+126580,University of Colorado Colorado Springs,https://www.uccs.edu,Colorado Springs,CO,38.892735,-104.800296,https://president.cu.edu/statements/cu-requires-vaccine-fall-semester-2021
 126605,Spartan College of Aeronautics and Technology,www.spartan.edu,Broomfield,CO,39.914822,-105.119096,
-126614,University of Colorado Boulder,www.colorado.edu,Boulder,CO,40.008781,-105.270823,
+126614,University of Colorado Boulder,www.colorado.edu,Boulder,CO,40.008781,-105.270823,https://president.cu.edu/statements/cu-requires-vaccine-fall-semester-2021
 126669,Colorado Christian University,https://WWW.CCU.EDU,Lakewood,CO,39.71388,-105.09456,
 126678,Colorado College,www.coloradocollege.edu,Colorado Springs,CO,38.84886,-104.822697,
 126687,Concorde Career College-Aurora,https://www.concorde.edu/campus/aurora-colorado,Aurora,CO,39.718699,-104.867089,
@@ -534,12 +534,12 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 127316,International Salon and Spa Academy,https://www.csbeautyschools.com/,Colorado Springs,CO,38.913621,-104.786252,
 127389,Lamar Community College,https://www.lamarcc.edu,Lamar,CO,38.068886,-102.616144,
 127556,Colorado Mesa University,www.coloradomesa.edu,Grand Junction,CO,39.080643,-108.553275,
-127565,Metropolitan State University of Denver,www.msudenver.edu/,Denver,CO,39.744202,-105.00504,
+127565,Metropolitan State University of Denver,www.msudenver.edu/,Denver,CO,39.744202,-105.00504,https://www.msudenver.edu/president/msu-denver-to-require-covid-19-vaccinations-for-fall-042821/
 127617,Morgan Community College,https://www.morgancc.edu,Fort  Morgan,CO,40.258792,-103.771822,
 127653,Naropa University,www.naropa.edu,Boulder,CO,40.014235,-105.266987,
 127714,Nazarene Bible College,www.nbc.edu,Colorado Springs,CO,38.944824,-104.803251,
 127732,Northeastern Junior College,www.njc.edu,Sterling,CO,40.637215,-103.197329,
-127741,University of Northern Colorado,https://www.unco.edu,Greeley,CO,40.410855,-104.692777,
+127741,University of Northern Colorado,https://www.unco.edu,Greeley,CO,40.410855,-104.692777,https://www.unco.edu/spring-operations/resources/vaccination.aspx
 127778,Otero Junior College,WWW.OJC.EDU,La Junta,CO,37.969984,-103.544874,
 127787,Altierus Career College-Thornton,https://www.altierus.org/campus/thornton,Thornton,CO,39.86156,-104.985441,
 127820,Pikes Peak Community College,www.ppcc.edu,Colorado Springs,CO,38.764287,-104.787261,
@@ -1042,7 +1042,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 150251,College of Court Reporting Inc,www.ccr.edu,Valparaiso,IN,41.467574,-87.066331,
 150288,Concordia Theological Seminary,www.ctsfw.edu,Fort Wayne,IN,41.139321,-85.10994,
 150303,Tricoci University of Beauty Culture-Highland,www.tricociuniversity.edu,Highland,IN,41.555885,-87.467018,
-150400,DePauw University,www.depauw.edu,Greencastle,IN,39.640904,-86.860363,
+150400,DePauw University,www.depauw.edu,Greencastle,IN,39.640904,-86.860363,https://www.wrtv.com/news/coronavirus/covid-19-education/depauw-will-require-students-get-covid-19-vaccine-for-2021-22-school-year
 150428,Don Roberts School of Hair Design,www.donrobertsspaschool.com,Schererville,IN,41.485532,-87.447089,
 150437,Don Roberts Beauty School,www.donrobertsbeautyschool.com,Valparaiso,IN,41.472714,-87.077791,
 150455,Earlham College,www.earlham.edu,Richmond,IN,39.823431,-84.915037,
@@ -1429,7 +1429,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 163657,Prince George's Community College,www.pgcc.edu,Largo,MD,38.888689,-76.824623,
 163754,Robert Paul Academy of Cosmetology Arts & Sciences,www.robertpaulacademy.com,Timonium,MD,39.4448,-76.624983,
 163815,Maryland Beauty Academy of Essex,www.baltimorestudio.com,Baltimore,MD,39.29844,-76.509213,
-163851,Salisbury University,https://www.salisbury.edu,Salisbury,MD,38.34648,-75.604815,
+163851,Salisbury University,https://www.salisbury.edu,Salisbury,MD,38.34648,-75.604815,https://www.salisbury.edu/news/article/2021-4-23-SU-Announces-USM-COVID-19-Vaccine-Requirement-for-Students-Employees-in-Fall-2021
 163912,St. Mary's College of Maryland,www.smcm.edu,St. Mary's City,MD,38.190904,-76.429097,
 163976,St. John's College,www.sjc.edu,Annapolis,MD,38.981598,-76.491359,
 164076,Towson University,www.towson.edu,Towson,MD,39.393622,-76.611164,
@@ -1460,7 +1460,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 164845,Empire Beauty School-Boston,www.empire.edu,Boston,MA,42.354683,-71.062722,
 164872,Boston Architectural College,www.the-bac.edu,Boston,MA,42.348467,-71.085786,
 164915,Boston Graduate School of Psychoanalysis Inc,https://www.bgsp.edu/,Brookline,MA,42.33912,-71.133151,
-164924,Boston College,www.bc.edu,Chestnut Hill,MA,42.336213,-71.169242,
+164924,Boston College,www.bc.edu,Chestnut Hill,MA,42.336213,-71.169242,https://www.nbcboston.com/news/coronavirus/boston-college-to-require-covid-vaccines-for-fall-semester/2363407/
 164988,Boston University,www.bu.edu,Boston,MA,42.351118,-71.107942,https://www.bu.edu/articles/2021/bu-will-require-students-to-get-covid-19-vaccine-for-fall-semester/
 165015,Brandeis University,www.brandeis.edu/,Waltham,MA,42.365727,-71.260155,
 165024,Bridgewater State University,www.bridgew.edu,Bridgewater,MA,41.98749,-70.974553,
@@ -1479,7 +1479,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 165608,Diman Regional Technical Institute,www.dimanregional.org,Fall River,MA,41.699857,-71.124742,
 165635,National Aviation Academy of New England,www.naa.edu,Concord,MA,42.462164,-71.387244,
 165644,Eastern Nazarene College,www.enc.edu,Quincy,MA,42.271228,-71.011079,
-165662,Emerson College,www.emerson.edu,Boston,MA,42.352202,-71.065384,https://www.wwlp.com/news/state-politics/emerson-college-to-require-vaccination-for-students-returning-for-fall-term/
+165662,Emerson College,www.emerson.edu,Boston,MA,42.352202,-71.065384,https://today.emerson.edu/2021/04/21/update-on-fall-2021-term-planning/
 165671,Emmanuel College,www.emmanuel.edu,Boston,MA,42.340602,-71.103634,
 165699,Endicott College,www.endicott.edu,Beverly,MA,42.553296,-70.840847,
 165750,Rob Roy Academy-Fall River,www.rob-roy.com,Fall River,MA,41.698905,-71.157664,
@@ -1677,7 +1677,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 173160,Bethel University,https://www.bethel.edu,Saint Paul,MN,45.057655,-93.161663,
 173179,Bethel Seminary-St Paul,https://www.bethel.edu,Saint Paul,MN,45.060071,-93.16318,
 173203,Central Lakes College-Brainerd,WWW.CLCMN.EDU,Brainerd,MN,46.345863,-94.214266,
-173258,Carleton College,https://www.carleton.edu,Northfield,MN,44.462318,-93.154666,
+173258,Carleton College,https://www.carleton.edu,Northfield,MN,44.462318,-93.154666,https://www.carleton.edu/covid/updates/message-from-president-poskanzer-sharing-the-framework-for-fall-2021/
 173300,Concordia College at Moorhead,https://www.concordiacollege.edu,Moorhead,MN,46.862482,-96.76749,
 173328,Concordia University-Saint Paul,https://www.csp.edu,Saint Paul,MN,44.949759,-93.154861,
 173416,Dakota County Technical College,www.dctc.edu/,Rosemount,MN,44.737255,-93.07805,
@@ -1695,7 +1695,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 173799,Inver Hills Community College,https://www.inverhills.edu,Inver Grove Heights,MN,44.828599,-93.055255,
 173805,Itasca Community College,https://www.itascacc.edu/,Grand Rapids,MN,47.241919,-93.49555,
 173896,Luther Seminary,https://www.luthersem.edu,Saint Paul,MN,44.984629,-93.196422,
-173902,Macalester College,www.macalester.edu,Saint Paul,MN,44.938565,-93.168053,
+173902,Macalester College,www.macalester.edu,Saint Paul,MN,44.938565,-93.168053,https://www.macalester.edu/covid-19/recent-updates/president-rivera-covid-19-vaccine-requirement/
 173911,South Central College,www.southcentral.edu,North Mankato,MN,44.174319,-94.047428,
 173920,Minnesota State University-Mankato,https://mankato.mnsu.edu/,Mankato,MN,44.146712,-93.99945,
 173957,Mayo Clinic College of Medicine and Science,college.mayo.edu/,Rochester,MN,44.02215,-92.466428,
@@ -1968,7 +1968,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 182953,Michaels School of Hair Design and Esthetics-Paul Mitchell Partner School,paulmitchell.edu/bedford,Bedford,NH,42.957837,-71.476135,
 182980,New England College,www.nec.edu/,Henniker,NH,43.176403,-71.822282,
 182999,New England School of Hair Design,www.neshd.org,West Lebanon,NH,43.627356,-72.321429,
-183026,Southern New Hampshire University,www.snhu.edu,Manchester,NH,43.038922,-71.451842,
+183026,Southern New Hampshire University,www.snhu.edu,Manchester,NH,43.038922,-71.451842,https://www.snhu.edu/about-us/covid-19
 183035,New Hampshire Institute for Therapeutic Arts,www.nhita.com,Hudson,NH,42.745262,-71.426722,
 183044,University of New Hampshire-Main Campus,www.unh.edu,Durham,NH,43.135934,-70.932465,
 183062,Keene State College,www.keene.edu,Keene,NH,42.926452,-72.279276,
@@ -2007,13 +2007,13 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 184180,County College of Morris,WWW.CCM.EDU,Randolph,NJ,40.859141,-74.579873,
 184205,Cumberland County College,https://www.rcsj.edu/,Vineland,NJ,39.440537,-75.057829,
 184278,Divers Academy International,www.diversacademy.edu,ERIAL,NJ,39.747926,-75.000877,
-184348,Drew University,www.drew.edu,Madison,NJ,40.761829,-74.424584,
+184348,Drew University,www.drew.edu,Madison,NJ,40.761829,-74.424584,https://www.drew.edu/stories/2021/04/26/drew-university-announces-vaccine-requirement-for-2021-22-academic-year/
 184427,Lincoln Technical Institute-South Plainfield,www.lincolntech.edu/campus/south-plainfield-nj,South Plainfield,NJ,40.551078,-74.420989,
 184481,Essex County College,www.essex.edu,Newark,NJ,40.738444,-74.178234,
 184506,Empire Beauty School-Union,www.empire.edu,Union,NJ,40.684576,-74.238364,
-184603,Fairleigh Dickinson University-Metropolitan Campus,www.fdu.edu,Teaneck,NJ,40.897209,-74.028986,
+184603,Fairleigh Dickinson University-Metropolitan Campus,www.fdu.edu,Teaneck,NJ,40.897209,-74.028986,https://www.fdu.edu/coronavirus-update/vaccination-policy/
 184612,Felician University,www.felician.edu,Lodi,NJ,40.867272,-74.096452,
-184694,Fairleigh Dickinson University-Florham Campus,www.fdu.edu,Madison,NJ,40.774498,-74.432121,https://www.fdu.edu/coronavirus-update/
+184694,Fairleigh Dickinson University-Florham Campus,www.fdu.edu,Madison,NJ,40.774498,-74.432121,https://www.fdu.edu/coronavirus-update/vaccination-policy/
 184746,Hohokus School of Trade and Technical Sciences,www.hohokus.edu,Paterson,NJ,40.909377,-74.152581,
 184773,Georgian Court University,https://georgian.edu/,Lakewood,NJ,40.099617,-74.228186,
 184782,Rowan University,https://www.rowan.edu,Glassboro,NJ,39.709108,-75.119119,
@@ -2061,7 +2061,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 186593,Atlantic Beauty & Spa Academy LLC,www.shorebeautyschool.edu,Egg Harbor Township,NJ,39.433238,-74.613498,
 186618,College of Saint Elizabeth,www.cse.edu,Morristown,NJ,40.78182,-74.438221,
 186645,Raritan Valley Community College,https://www.raritanval.edu,Branchburg,NJ,40.609681,-74.688127,
-186867,Stevens Institute of Technology,www.stevens.edu,Hoboken,NJ,40.744776,-74.025334,
+186867,Stevens Institute of Technology,www.stevens.edu,Hoboken,NJ,40.744776,-74.025334,https://www.stevens.edu/about-stevens/spring-21-campus-operations-and-guidance/covid-19-vaccine-information
 186876,Stockton University,www.stockton.edu,Galloway,NJ,39.492036,-74.531087,
 186900,Talmudical Academy-New Jersey,https://talmudicalacademynj.com,Adelphia,NJ,40.217456,-74.250167,
 187000,Teterboro School of Aeronautics,www.teterboroschool.com,Teterboro,NJ,40.841265,-74.071874,
@@ -2201,7 +2201,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 191311,Gemological Institute of America-New York,www.gia.edu/gem-education,New York,NY,40.757267,-73.980813,
 191320,The General Theological Seminary,WWW.GTS.EDU,New York,NY,40.745563,-74.00378,
 191339,Genesee Community College,www.genesee.edu,Batavia,NY,43.016584,-78.137586,
-191515,Hamilton College,www.hamilton.edu,Clinton,NY,43.050245,-75.408195,
+191515,Hamilton College,www.hamilton.edu,Clinton,NY,43.050245,-75.408195,https://www.hamilton.edu/covid19-information/faqs-fall-2021-semester
 191533,Hartwick College,www.hartwick.edu/,Oneonta,NY,42.457599,-75.071994,
 191597,Helene Fuld College of Nursing,https://www.helenefuld.edu,New York,NY,40.802495,-73.943356,
 191612,Herkimer County Community College,www.herkimer.edu/,Herkimer,NY,43.032738,-75.007206,
@@ -2223,7 +2223,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 192165,Kehilath Yakov Rabbinical Seminary,kehilathyakov.com,Ossining,NY,41.220521,-73.814887,
 192192,Keuka College,https://www.keuka.edu,Keuka Park,NY,42.615253,-77.090562,
 192271,LIM College,www.limcollege.edu,New York,NY,40.759865,-73.975054,
-192323,Le Moyne College,www.lemoyne.edu,Syracuse,NY,43.049192,-76.090435,
+192323,Le Moyne College,www.lemoyne.edu,Syracuse,NY,43.049192,-76.090435,https://www.lemoyne.edu/News/News-Article/ArticleId/320
 192448,Long Island University,www.liu.edu,Brookville,NY,40.820714,-73.593678,
 192484,Long Island Beauty School-Hempstead,www.libs.edu,Hempstead,NY,40.707701,-73.629666,
 192509,Long Island Business Institute,www.libi.edu,Flushing,NY,40.760109,-73.829457,
@@ -2231,7 +2231,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 192688,Mandl School-The College of Allied Health,www.mandl.edu,New York,NY,40.764404,-73.983786,
 192703,Manhattan College,www.manhattan.edu,Riverdale,NY,40.889756,-73.901893,
 192712,Manhattan School of Music,www.msmnyc.edu,New York,NY,40.812312,-73.961334,
-192749,Manhattanville College,www.mville.edu,Purchase,NY,41.032187,-73.715645,
+192749,Manhattanville College,www.mville.edu,Purchase,NY,41.032187,-73.715645,https://www.mville.edu/covid-19-messages-to-community
 192785,Maria College of Albany,www.mariacollege.edu,Albany,NY,42.657789,-73.806287,
 192800,Marion S Whelan School of Nursing of Geneva General Hospital,www.mswspn.com,Geneva,NY,42.87766,-76.988902,
 192819,Marist College,www.Marist.edu,Poughkeepsie,NY,41.720937,-73.935484,
@@ -2260,7 +2260,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 193584,Nazareth College,www.naz.edu,Rochester,NY,43.101576,-77.518579,
 193609,Neighborhood Playhouse School of the Theater,www.neighborhoodplayhouse.org,New York City,NY,40.756613,-73.965332,
 193645,The College of New Rochelle,www.cnr.edu,New Rochelle,NY,40.899427,-73.781104,
-193654,The New School,https://www.newschool.edu/,New York,NY,40.735508,-73.997114,
+193654,The New School,https://www.newschool.edu/,New York,NY,40.735508,-73.997114,https://www.newschool.edu/covid-19/vaccine-information/
 193672,The New School Center for Media,newschoolalbany.edu/,Albany,NY,42.720596,-73.809816,
 193751,New York Chiropractic College,www.nycc.edu,Seneca Falls,NY,42.91173,-76.756232,
 193821,New York Law School,www.nyls.edu,New York,NY,40.717998,-74.006969,
@@ -2307,7 +2307,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 195234,The College of Saint Rose,www.strose.edu,Albany,NY,42.664297,-73.786661,
 195243,St. Thomas Aquinas College,www.stac.edu,Sparkill,NY,41.041576,-73.936799,
 195289,Samaritan Hospital School of Nursing,www.sphp.com/SON,Troy,NY,42.742861,-73.676151,
-195304,Sarah Lawrence College,www.sarahlawrence.edu,Bronxville,NY,40.9355,-73.843727,
+195304,Sarah Lawrence College,www.sarahlawrence.edu,Bronxville,NY,40.9355,-73.843727,https://www.sarahlawrence.edu/covid-information/
 195322,Schenectady County Community College,sunysccc.edu,Schenectady,NY,42.814412,-73.950008,
 195438,Sh'or Yoshuv Rabbinical College,https://www.shoryoshuv.org/,Lawrence,NY,40.605227,-73.740085,
 195474,Siena College,https://www.siena.edu,Loudonville,NY,42.717602,-73.7526,
@@ -2787,7 +2787,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 208822,George Fox University,www.georgefox.edu,Newberg,OR,45.303629,-122.967494,
 208859,Phagans Grants Pass College of Beauty,www.phagans-schools.com,Grants Pass,OR,42.435266,-123.298826,
 209038,Lane Community College,https://www.Lanecc.edu,Eugene,OR,44.009325,-123.032644,
-209056,Lewis & Clark College,www.lclark.edu/,Portland,OR,45.450882,-122.669137,https://www.kgw.com/article/news/local/lewis-clark-college-to-require-students-show-proof-of-covid-vaccination/283-3bc931f5-ad22-4bbb-9b51-6711e5a4b772
+209056,Lewis & Clark College,www.lclark.edu/,Portland,OR,45.450882,-122.669137,https://www.lclark.edu/offices/health_service/vaccine-education/student-covid-19-vaccination-policy/
 209065,Linfield College-McMinnville Campus,www.linfield.edu,McMinnville,OR,45.201173,-123.199642,
 209074,Linn-Benton Community College,https://www.linnbenton.edu,Albany,OR,44.587663,-123.11403,
 209083,Northwest College-Beaverton,www.nwcollege.edu,Beaverton,OR,45.489301,-122.805741,
@@ -2812,7 +2812,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 209719,Summit Salon Academy-Portland,www.summitsalonacademyportland.com,Tigard,OR,45.433994,-122.766574,
 209746,Portland Community College,www.pcc.edu,Portland,OR,45.438154,-122.730876,
 209807,Portland State University,www.pdx.edu,Portland,OR,45.511601,-122.686289,
-209825,University of Portland,https://www.up.edu,Portland,OR,45.572724,-122.726691,
+209825,University of Portland,https://www.up.edu,Portland,OR,45.572724,-122.726691,https://apnews.com/article/portland-health-religion-coronavirus-0445d9055d5b6b33f6d412ab5406378b
 209922,Reed College,https://www.reed.edu,Portland,OR,45.480959,-122.630348,
 209940,Rogue Community College,www.roguecc.edu,Grants Pass,OR,42.412159,-123.39326,
 210076,Pioneer Pacific College,www.pioneerpacific.edu,Beaverton,OR,45.489861,-122.806581,
@@ -2824,7 +2824,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 210331,Corban University,www.corban.edu,Salem,OR,44.882399,-122.961129,
 210340,College of Cosmetology,COLLEGEOFCOS.COM,Klamath Falls,OR,42.224857,-121.765377,
 210368,Western Seminary,www.westernseminary.edu,Portland,OR,45.512091,-122.606374,
-210401,Willamette University,www.willamette.edu,Salem,OR,44.935457,-123.030537,
+210401,Willamette University,www.willamette.edu,Salem,OR,44.935457,-123.030537,https://apnews.com/article/portland-health-religion-coronavirus-0445d9055d5b6b33f6d412ab5406378b
 210429,Western Oregon University,www.wou.edu,Monmouth,OR,44.852235,-123.238309,
 210438,University of Western States,https://www.uws.edu/,Portland,OR,45.543253,-122.525979,
 210474,Jolie Hair and Beauty Academy-Hazleton,www.jolieacademy.com,Hazleton,PA,40.974924,-75.977485,
@@ -3840,7 +3840,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 243638,College of Micronesia-FSM,www.comfsm.fm,Pohnpei,FM,6.909759,158.158189,
 243647,Palau Community College,palau.edu,Koror,PW,7.343177,134.473744,
 243665,University of the Virgin Islands,www.uvi.edu,Charlotte Amalie,VI,18.344193,-64.972866,
-243744,Stanford University,www.stanford.edu/,Stanford,CA,37.429434,-122.167359,
+243744,Stanford University,www.stanford.edu/,Stanford,CA,37.429434,-122.167359,https://news.stanford.edu/today/2021/04/22/student-vaccination-fall/
 243780,Purdue University-Main Campus,https://www.purdue.edu,West Lafayette,IN,40.428206,-86.914435,
 243799,Blue Hills Regional Technical School,www.bluehills.org/postgraduate-practical-nursing-program/,Canton,MA,42.18221,-71.104081,
 243823,Parker University,www.parker.edu/,Dallas,TX,32.880335,-96.893564,
