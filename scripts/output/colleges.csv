@@ -3221,7 +3221,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 220631,Lincoln Memorial University,www.lmunet.edu,Harrogate,TN,36.578508,-83.660198,
 220640,Tennessee College of Applied Technology-Livingston,www.tcatlivingston.edu,Livingston,TN,36.39594,-85.317248,
 220701,Martin Methodist College,www.martinmethodist.edu,Pulaski,TN,35.201019,-87.035661,
-220710,Maryville College,www.maryvillecollege.edu,Maryville,TN,35.751505,-83.964223,
+220710,Maryville College,www.maryvillecollege.edu,Maryville,TN,35.751505,-83.964223,https://www.maryvillecollege.edu/news/2021/mc-requiring-with-exceptions-covid-19-vaccine-for-campus-community/
 220756,Tennessee College of Applied Technology-McKenzie,www.tcatmckenzie.edu,McKenzie,TN,36.137048,-88.492615,
 220765,Genesis Career College-Cookeville,www.genesiscareer.edu,Cookeville,TN,36.176484,-85.485574,
 220792,Meharry Medical College,www.mmc.edu,Nashville,TN,36.165458,-86.807371,
@@ -3585,7 +3585,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 234137,Virginia University of Lynchburg,www.vul.edu,Lynchburg,VA,37.395187,-79.151615,
 234155,Virginia State University,www.vsu.edu,Petersburg,VA,37.234692,-77.419026,
 234164,Virginia Union University,www.vuu.edu,Richmond,VA,37.562405,-77.450903,
-234173,Virginia Wesleyan University,www.vwu.edu,Virginia Beach,VA,36.868417,-76.18606,
+234173,Virginia Wesleyan University,www.vwu.edu,Virginia Beach,VA,36.868417,-76.18606,https://www.wavy.com/covid-19-vaccine/virginia-wesleyan-university-to-require-covid-19-vaccination-for-fall-2021-semester/
 234207,Washington and Lee University,www.wlu.edu/,Lexington,VA,37.788939,-79.443018,
 234377,Wytheville Community College,www.wcc.vccs.edu,Wytheville,VA,36.95731,-81.071181,
 234669,Bellevue College,https://bellevuecollege.edu,Bellevue,WA,47.584014,-122.150118,
@@ -3624,7 +3624,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 236133,Northwest University,www.northwestu.edu,Kirkland,WA,47.657945,-122.192763,
 236188,Olympic College,www.olympic.edu,Bremerton,WA,47.574769,-122.635113,
 236212,Perry Technical Institute,www.perrytech.edu/,Yakima,WA,46.571492,-120.537976,
-236230,Pacific Lutheran University,www.plu.edu,Tacoma,WA,47.14516,-122.440421,
+236230,Pacific Lutheran University,www.plu.edu,Tacoma,WA,47.14516,-122.440421,https://www.plu.edu/coronavirus/updates/
 236258,Peninsula College,www.pencol.edu,Port Angeles,WA,48.101295,-123.412865,
 236328,University of Puget Sound,www.pugetsound.edu,Tacoma,WA,47.26308,-122.478982,
 236382,Renton Technical College,www.rtc.edu,Renton,WA,47.489206,-122.176303,
@@ -3642,7 +3642,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 236753,Tacoma Community College,https://www.tacomacc.edu,Tacoma,WA,47.244622,-122.524793,
 236887,Walla Walla Community College,https://www.wwcc.edu/,Walla Walla,WA,46.078557,-118.276505,
 236896,Walla Walla University,www.wallawalla.edu,College Place,WA,46.048088,-118.389555,
-236939,Washington State University,wsu.edu/,Pullman,WA,46.730448,-117.158168,
+236939,Washington State University,wsu.edu/,Pullman,WA,46.730448,-117.158168,https://from.wsu.edu/president/2021/covid-19-vaccine-requirement/email.html
 236948,University of Washington-Seattle Campus,www.washington.edu,Seattle,WA,47.65538,-122.30514,
 236975,Wenatchee Valley College,www.wvc.edu,Wenatchee,WA,47.431234,-120.337198,
 237011,Western Washington University,www.wwu.edu,Bellingham,WA,48.737812,-122.485734,
