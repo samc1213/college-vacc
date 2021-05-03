@@ -518,7 +518,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 126748,Colorado Northwestern Community College,www.cncc.edu,Rangely,CO,40.081112,-108.790048,
 126775,Colorado School of Mines,www.mines.edu,Golden,CO,39.751443,-105.223364,
 126784,Colorado School of Trades,https://schooloftrades.edu/about,Lakewood,CO,39.74181,-105.104174,
-126818,Colorado State University-Fort Collins,colostate.edu,Fort Collins,CO,40.574805,-105.080732,
+126818,Colorado State University-Fort Collins,colostate.edu,Fort Collins,CO,40.574805,-105.080732,https://source.colostate.edu/update-on-csu-system-covid-vaccine-requirement-for-fall-2021/
 126827,Colorado Technical University-Colorado Springs,www.coloradotech.edu/Colorado-Springs,Colorado Springs,CO,38.894265,-104.833928,
 126863,Community College of Aurora,https://www.ccaurora.edu,Aurora,CO,39.71788,-104.802673,
 126872,CollegeAmerica-Denver,www.collegeamerica.edu,Denver,CO,39.691571,-104.941168,
@@ -548,7 +548,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 127918,Regis University,www.regis.edu/,Denver,CO,39.788175,-105.030756,
 127945,Rocky Mountain College of Art and Design,www.rmcad.edu,Lakewood,CO,39.74332,-105.069911,
 127954,Montessori Education Center of the Rockies,www.mecr.edu,Boulder,CO,40.019673,-105.241331,
-128106,Colorado State University-Pueblo,https://www.csupueblo.edu,Pueblo,CO,38.30859,-104.579033,
+128106,Colorado State University-Pueblo,https://www.csupueblo.edu,Pueblo,CO,38.30859,-104.579033,https://source.colostate.edu/update-on-csu-system-covid-vaccine-requirement-for-fall-2021/
 128151,Pickens Technical College,www.pickenstech.org,Aurora,CO,39.723705,-104.789683,
 128179,Intellitec College-Colorado Springs,intellitec.edu,Colorado Springs,CO,38.832183,-104.78721,
 128188,Intellitec College-Grand Junction,intellitec.edu/,Grand Junction,CO,39.116346,-108.53062,
@@ -2038,7 +2038,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 185721,Eastwick College-Nutley,www.eastwickcollege.edu,Nutley,NJ,40.810742,-74.144192,
 185758,New Brunswick Theological Seminary,www.nbts.edu,New Brunswick,NJ,40.501314,-74.449368,
 185767,Robert Fiance Beauty Schools-West New York,www.robertfiance.edu,West New York,NJ,40.786079,-74.018286,
-185828,New Jersey Institute of Technology,www.njit.edu/,Newark,NJ,40.741997,-74.177113,
+185828,New Jersey Institute of Technology,www.njit.edu/,Newark,NJ,40.741997,-74.177113,https://www.njit.edu/pandemicrecovery/vaccination-requirement-njit-community-members
 185873,Ocean County College,www.ocean.edu/,Toms River,NJ,40.007809,-74.16549,
 185970,P B Cosmetology Education Center,pbbeautyschool.com/,Gloucester,NJ,39.898805,-75.126308,
 186016,Parisian Beauty School,paulmitchell.edu/hackensack/,Hackensack,NJ,40.889745,-74.041163,
@@ -2438,7 +2438,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 198817,Lenoir Community College,https://www.lenoircc.edu,Kinston,NC,35.234405,-77.571532,
 198835,Lenoir-Rhyne University,www.lr.edu,Hickory,NC,35.739968,-81.327598,
 198844,Leons Beauty School Inc,www.leonsbeauty.com,Greensboro,NC,36.057646,-79.8228,
-198862,Livingstone College,www.livingstone.edu,Salisbury,NC,35.670877,-80.483956,
+198862,Livingstone College,www.livingstone.edu,Salisbury,NC,35.670877,-80.483956,https://livingstone.edu/lc-to-require-vaccine-for-fall/
 198871,Louisburg College,www.louisburg.edu,Louisburg,NC,36.105035,-78.29898,
 198899,Mars Hill University,www.mhu.edu,Mars Hill,NC,35.82752,-82.551827,
 198905,Martin Community College,www.martincc.edu,Williamston,NC,35.836304,-77.094913,
@@ -5654,7 +5654,7 @@ Id,Name,Url,City,State,Lat,Lon,CovidAnnouncement
 476948,SAE Institute of Technology-Atlanta,www.usa.sae.edu,Atlanta,GA,33.75993,-84.38696,
 476957,Academy di Firenze,www.academydifirenze.com,Jerome,ID,42.723871,-114.519826,
 476966,SAE Institute of Technology-Miami,usa.sae.edu/campuses/miami/,North Miami Beach,FL,25.92387,-80.155391,
-476975,Colorado State University-Global Campus,https://csuglobal.edu,Aurora,CO,39.724849,-104.786742,
+476975,Colorado State University-Global Campus,https://csuglobal.edu,Aurora,CO,39.724849,-104.786742,https://source.colostate.edu/update-on-csu-system-covid-vaccine-requirement-for-fall-2021/
 476984,Paul Mitchell the School-Overland Park,paulmitchell.edu/overlandpark,Overland Park,KS,38.95593,-94.688051,
 476993,Medspa Academies,www.nima.edu/,South Jordan,UT,40.55681,-111.912821,
 477002,Brighton Institute of Cosmetology,www.brightoninstitute.net,Brighton,MI,42.521018,-83.743486,
