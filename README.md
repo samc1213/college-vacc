@@ -18,3 +18,6 @@ to have a COVID vaccine for the fall of 2021 to the `CovidAnnouncement` column.
 
 # Map of Data
 [here](https://samc1213.github.io/2020/04/22/vaccine-college-requirement/)
+
+# Accuracy
+Note this dataset has not been maintained since May 2, 2020, due to an overwhelming number of schools requiring the vaccine, and minimal engagement with this project.
